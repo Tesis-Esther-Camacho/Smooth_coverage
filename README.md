@@ -21,7 +21,7 @@ smooth_coverage_by_window_v2.pl <TAB_file> <window>
 	<window>	= window width
 ```
   
- ## AUTHOR: 
+ ## AUTHOR 
  
  * Ramón Peiró-Pastor
   
